@@ -3,8 +3,12 @@ body {
 }
 
 h1 {
-    padding: 30px;
+    padding: 2rem;
     background-color: lightgrey;
+}
+
+h2 {
+    padding: 2rem;
 }
 
 ol {
